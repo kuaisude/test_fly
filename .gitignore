@@ -1,0 +1,14 @@
+*.log
+*.obj
+*.txt
+*.dat
+*.tlog
+*.pdb
+debug*
+release*
+*Debug
+*Release
+/*.Debug
+tmp
+*.rc
+/Makefile
